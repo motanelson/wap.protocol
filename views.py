@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog
 
-TILE_SIZE = 20
+TILE_SIZE = 1
 
 # Paleta VGA 16 cores
 VGA_COLORS = {
@@ -26,7 +26,7 @@ VGA_COLORS = {
 def load_level():
     filename = filedialog.askopenfilename(
         title="Abrir nível",
-        filetypes=[("Text files", "*.txt")]
+        filetypes=[("Dat files", "*.dat")]
     )
     if not filename:
         return
