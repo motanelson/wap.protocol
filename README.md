@@ -1,2 +1,1 @@
-# symbol.land.view
-symbol code view of level code 
+learn all about bitmaps home made
