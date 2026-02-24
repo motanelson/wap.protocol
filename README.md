@@ -1,1 +1,1 @@
-game studio to build a game
+https://en.wikipedia.org/wiki/Wireless_Application_Protocol
