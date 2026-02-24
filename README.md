@@ -2,3 +2,7 @@ https://en.wikipedia.org/wiki/Wireless_Application_Protocol
 
 
 https://portals.wap.sh/
+
+
+https://leno.net/wap/
+
