@@ -8,3 +8,5 @@ https://leno.net/wap/
 
 
 http://wapall.info
+
+https://sourceforge.net/directory/?q=wap%20portal
